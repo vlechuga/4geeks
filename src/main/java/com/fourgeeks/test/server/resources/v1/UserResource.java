@@ -4,6 +4,7 @@ import com.fourgeeks.test.server.annotations.PermissionAllowed;
 import com.fourgeeks.test.server.domain.ObjectId;
 import com.fourgeeks.test.server.domain.entities.Person;
 import com.fourgeeks.test.server.facade.PersonFacade;
+import com.fourgeeks.test.server.mappers.UserMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -70,7 +71,7 @@ public class UserResource {
     @Produces({MediaType.APPLICATION_JSON})
     public Response get(@PathParam("email") String email) {
         final Person fromDB = personFacade.findByEmail(email);
-        return Response.ok().entity(fromDB).build();
+        return Response.ok().entity(UserMapper.INSTANCE.personToPersonDto(fromDB)).build();
     }
 
     @PUT
@@ -99,7 +100,7 @@ public class UserResource {
     public Response remove(@PathParam("email") String email) {
         final Person fromDB = personFacade.findByEmail(email);
         personFacade.remove(fromDB);
-        return Response.ok().entity(fromDB).build();
+        return Response.ok().entity(UserMapper.INSTANCE.personToPersonDto(fromDB)).build();
     }
 
 }
