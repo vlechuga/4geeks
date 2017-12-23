@@ -7,230 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04bd4dcc-4112-4c22-8d5d-e103470f844c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/developer_test_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/developer_test_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d9e00fdc-a139-46d1-8765-6f3efdf859a1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d9e00fdc-a139-46d1-8765-6f3efdf859a1/storage_v2/_src_/database/test-4geeks.1iRwMA.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d9e00fdc-a139-46d1-8765-6f3efdf859a1/storage_v2/_src_/database/test-4geeks.1iRwMA/schema/public.abK9xQ.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/vlechuga.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lambdaworks_scrypt_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_3_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_52.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_antlr_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_jpql_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b42.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_1_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_1_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_annotation_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_ejb_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_transaction_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/developer-test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/V0.1__Init_tables.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/MainApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/annotations/NoAuthentication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/annotations/PermissionAllowed.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/annotations/ValidateOwner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/ErrorResponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/ObjectId.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/TokenInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Category.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/CreatedBy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Note.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Permission.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Transaction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Travel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/AbstractFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/CategoryFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/NoteFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/PersonFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/RunFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/TransactionFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/TravelFacade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/filters/AuthenticationFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/filters/PermissionAllowedFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/filters/ValidateOwnerFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/AuthenticationFeature.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/CORSResponseFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/ErrorRegistry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/TSSecurityContext.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/EntityAlreadyExistsException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/NotFoundException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/TokenException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/UnauthorizedException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/EJBExceptionMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/EntityAlreadyExistsExceptionMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/NotFoundExceptionMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/UnauthorizedExceptionMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/AuthResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/CategoryResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/NoteResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/RunResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/TransactionResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/TravelResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/UserResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/TokenServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/interfaces/PasswordEncryptionService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/interfaces/TokenService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/MainApplication$1$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/MainApplication$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/MainApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/annotations/NoAuthentication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/annotations/PermissionAllowed$Permission.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/annotations/PermissionAllowed.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/ErrorResponse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/ObjectId.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/TokenInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Category.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Note.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Permission.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Person$Role.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Person$Status.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Run.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Transaction$TransactionType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Transaction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/domain/entities/Travel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/AbstractFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/CategoryFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/NoteFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/PersonFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/RunFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/TransactionFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/facade/TravelFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/filters/AuthenticationFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/filters/PermissionAllowedFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/CORSResponseFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/ErrorRegistry$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/ErrorRegistry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/TSSecurityContext.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/EntityAlreadyExistsException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/NotFoundException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/TokenException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/UnauthorizedException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/mappers/EJBExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/mappers/EntityAlreadyExistsExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/mappers/NotFoundExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/providers/exceptions/mappers/UnauthorizedExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/resources/v1/AuthResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/resources/v1/UserResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/services/TokenServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/services/interfaces/PasswordEncryptionService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fourgeeks/test/server/services/interfaces/TokenService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/config.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT.war" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/MainApplication$1$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/MainApplication$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/MainApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/annotations/NoAuthentication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/annotations/PermissionAllowed$Permission.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/annotations/PermissionAllowed.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/ErrorResponse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/ObjectId.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/TokenInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Category.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Note.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Permission.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Person$Role.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Person$Status.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Run.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Transaction$TransactionType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Transaction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/domain/entities/Travel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/AbstractFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/CategoryFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/NoteFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/PersonFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/RunFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/TransactionFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/facade/TravelFacade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/filters/AuthenticationFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/filters/PermissionAllowedFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/AuthenticationFeature.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/CORSResponseFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/ErrorRegistry$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/ErrorRegistry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/TSSecurityContext.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/EntityAlreadyExistsException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/NotFoundException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/TokenException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/UnauthorizedException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/mappers/EJBExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/mappers/EntityAlreadyExistsExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/mappers/NotFoundExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/providers/exceptions/mappers/UnauthorizedExceptionMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/AuthResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/CategoryResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/NoteResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/RunResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/TransactionResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/TravelResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/resources/v1/UserResource.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/services/TokenServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/services/interfaces/PasswordEncryptionService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/com/fourgeeks/test/server/services/interfaces/TokenService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/classes/config.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk15on-1.52.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/hk2-api-2.1.58.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/hk2-utils-2.1.58.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/javax.inject-1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/javax.json-1.0.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/javax.persistence-2.1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/jcip-annotations-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/json-smart-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/nimbus-jose-jwt-3.10.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.persistence.antlr-2.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.persistence.asm-2.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.persistence.core-2.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.persistence.jpa-2.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.persistence.jpa.jpql-2.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/scrypt-1.4.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.8.0-beta0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/developer-test-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -263,11 +41,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidateOwner.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/annotations/ValidateOwner.java">
+      <file leaf-file-name="CategoryResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/CategoryResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="139">
+              <caret line="80" column="6" lean-forward="false" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TokenServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/TokenServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -275,11 +63,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthenticationFeature.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/AuthenticationFeature.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="36" column="59" lean-forward="false" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+            <state relative-caret-position="17">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PasswordEncryptionServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/UserResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -308,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/NotFoundExceptionMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/exceptions/mappers/EntityAlreadyExistsExceptionMapper.java" />
@@ -318,7 +145,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/PersonPermissionEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/PersonPermission.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/PersonPermission.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/facade/PersonFacade.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Permission.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -359,6 +185,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/TransactionResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/filters/PermissionAllowedFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/annotations/ValidateOwner.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -458,135 +286,6 @@
               <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="developer-test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="facade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="filters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="developer-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="developer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -606,19 +305,6 @@
     <property name="JPA.DatabaseSchemaImportDialog" value="d9e00fdc-a139-46d1-8765-6f3efdf859a1" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/webapp" />
-    </key>
-    <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="com.fourgeeks.test.server.domain" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/resources/db.migration" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.fourgeeks.test.server.filters" />
       <recent name="com.fourgeeks.test.server.annotations" />
@@ -628,6 +314,20 @@
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.fourgeeks.test.server.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/db.migration" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.fourgeeks.test.server.domain" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -817,12 +517,12 @@
       <workItem from="1513612866341" duration="5688000" />
       <workItem from="1513685717100" duration="36145000" />
       <workItem from="1513801236888" duration="22747000" />
-      <workItem from="1513951718713" duration="30715000" />
+      <workItem from="1513951718713" duration="31815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183852000" />
+    <option name="totallyTimeSpent" value="184952000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -856,7 +556,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64433813" sideWeight="0.4968701" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30672926" sideWeight="0.5247209" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30672926" sideWeight="0.4752791" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -933,32 +633,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Base64.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="547" column="22" lean-forward="false" selection-start-line="547" selection-start-column="22" selection-end-line="547" selection-end-column="22" />
-          <folding>
-            <element signature="e#20766#20767#0" expanded="false" />
-            <element signature="e#20846#20847#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/3.10/nimbus-jose-jwt-3.10.jar!/com/nimbusds/jose/crypto/MACSigner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/interfaces/PasswordEncryptionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/ErrorResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1004,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/ServerRuntime.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1029,14 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/TokenServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -1087,14 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/AuthResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1269,16 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/CategoryResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="80" column="6" lean-forward="false" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
-          <folding>
-            <element signature="e#1079#1106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/domain/entities/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1338,16 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/UserResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/providers/AuthenticationFeature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -1381,6 +1012,74 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/AuthResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/UserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/resources/v1/CategoryResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="80" column="6" lean-forward="false" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/PasswordEncryptionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fourgeeks/test/server/services/TokenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
