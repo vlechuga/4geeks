@@ -12,6 +12,12 @@
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
+    <servlet>
+        <servlet-name>SwaggerBootstrap</servlet-name>
+        <servlet-class>com.fourgeeks.test.server.filters.BootstrapSwagger</servlet-class>
+        <load-on-startup>2</load-on-startup>
+    </servlet>
+
     <servlet-mapping>
         <servlet-name>Jersey Web Application</servlet-name>
         <url-pattern>/*</url-pattern>

@@ -2,11 +2,18 @@ package com.fourgeeks.test.server.resources.v1;
 
 import com.fourgeeks.test.server.annotations.PermissionAllowed;
 import com.fourgeeks.test.server.annotations.ValidateOwner;
+import com.fourgeeks.test.server.domain.ErrorResponse;
 import com.fourgeeks.test.server.domain.ObjectId;
+import com.fourgeeks.test.server.domain.entities.Note;
 import com.fourgeeks.test.server.domain.entities.Person;
+import com.fourgeeks.test.server.domain.entities.Run;
 import com.fourgeeks.test.server.domain.entities.Travel;
 import com.fourgeeks.test.server.facade.PersonFacade;
 import com.fourgeeks.test.server.facade.TravelFacade;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiResponse;
+import io.swagger.annotations.ApiResponses;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,6 +30,8 @@ import java.util.List;
 
 
 @Path("/travels")
+@Api(value = "travels",
+        description = "Operations about travel ex. registration, edit, etc.")
 public class TravelResource {
     private static Logger LOG = LoggerFactory.getLogger(TravelResource.class);
 
@@ -48,6 +57,7 @@ public class TravelResource {
             @PermissionAllowed.Permission(roles = {"ADMIN", "TRAVEL_PLANNER"}, permissions = "READ_ALL")
     })
     @Produces({MediaType.APPLICATION_JSON})
+    @ApiOperation(value = "Get travel list", response = Travel[].class)
     public Response getAll() {
         final List<Travel> travels = travelFacade.findAll();
         return Response.ok().entity(travels).build();
@@ -60,6 +70,12 @@ public class TravelResource {
     })
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces({MediaType.APPLICATION_JSON})
+    @ApiOperation(value = "Register travel")
+    @ApiResponses(value = {
+            @ApiResponse(code = 201, message = "created", response = ObjectId.class),
+            @ApiResponse(code = 400, message = "constraint violation on one or many fields"),
+            @ApiResponse(code = 406, message = "This Entity already exist", response = ErrorResponse.class)
+    })
     public Response register(@Valid Travel travel) {
         final Person user = personFacade.find(ctx.getProperty("id").toString());
         travel.setCreatedBy(user);
@@ -81,6 +97,13 @@ public class TravelResource {
     })
     @ValidateOwner(target = TravelFacade.class)
     @Produces({MediaType.APPLICATION_JSON})
+    @ApiOperation(value = "Get travel",
+            notes = "Get a travel by ID")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "OK", response = Run.class),
+            @ApiResponse(code = 403, message = "Wrong owner", response = ErrorResponse.class),
+            @ApiResponse(code = 404, message = "Entity not found", response = ErrorResponse.class)
+    })
     public Response get(@PathParam("id") String id) {
         final Travel fromDB = travelFacade.find(id);
         return Response.ok().entity(fromDB).build();
@@ -95,6 +118,13 @@ public class TravelResource {
     @ValidateOwner(target = TravelFacade.class)
     @Consumes({MediaType.APPLICATION_JSON})
     @Produces({MediaType.APPLICATION_JSON})
+    @ApiOperation(value = "Update travel")
+    @ApiResponses(value = {
+            @ApiResponse(code = 204, message = "Entity updated"),
+            @ApiResponse(code = 400, message = "constraint violation on one or many fields"),
+            @ApiResponse(code = 403, message = "Wrong owner", response = ErrorResponse.class),
+            @ApiResponse(code = 404, message = "Entity not found", response = ErrorResponse.class)
+    })
     public Response update(@PathParam("id") String id,
                            @Valid Travel travel) {
         travelFacade.find(id);
@@ -111,6 +141,13 @@ public class TravelResource {
     })
     @ValidateOwner(target = TravelFacade.class)
     @Produces({MediaType.APPLICATION_JSON})
+    @ApiOperation(value = "Remove travel",
+            notes = "Remove a travel by ID")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "Entity removed", response = Note.class),
+            @ApiResponse(code = 403, message = "Wrong owner", response = ErrorResponse.class),
+            @ApiResponse(code = 404, message = "Entity not found", response = ErrorResponse.class)
+    })
     public Response remove(@PathParam("id") String id) {
         final Travel fromDB = travelFacade.find(id);
         travelFacade.remove(fromDB);
