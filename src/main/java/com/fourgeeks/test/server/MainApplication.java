@@ -1,17 +1,21 @@
 package com.fourgeeks.test.server;
 
 import com.fourgeeks.test.server.providers.AuthenticationFeature;
-import com.fourgeeks.test.server.services.PasswordEncryptionServiceImpl;
 
 import com.fourgeeks.test.server.services.TokenServiceImpl;
 import com.fourgeeks.test.server.services.interfaces.TokenService;
 import com.nimbusds.jwt.SignedJWT;
+import io.swagger.jaxrs.config.BeanConfig;
+import io.swagger.jaxrs.listing.ApiListingResource;
+import io.swagger.jaxrs.listing.SwaggerSerializers;
 import org.glassfish.hk2.api.TypeLiteral;
 import org.glassfish.hk2.utilities.binding.AbstractBinder;
+import org.glassfish.jersey.CommonProperties;
 import org.glassfish.jersey.client.filter.EncodingFilter;
 import org.glassfish.jersey.message.DeflateEncoder;
 import org.glassfish.jersey.message.GZipEncoder;
 import org.glassfish.jersey.server.ResourceConfig;
+import org.glassfish.jersey.server.ServerProperties;
 import org.glassfish.jersey.server.filter.RolesAllowedDynamicFeature;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -37,6 +41,9 @@ public class MainApplication extends ResourceConfig {
         //Features
         register(AuthenticationFeature.class);
         register(RolesAllowedDynamicFeature.class);
+
+        register(ApiListingResource.class);
+        register(SwaggerSerializers.class);
 
         register(new AbstractBinder() {
             @Override

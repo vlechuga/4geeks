@@ -1,6 +1,7 @@
 package com.fourgeeks.test.server.resources.v1;
 
 import com.fourgeeks.test.server.annotations.NoAuthentication;
+import com.fourgeeks.test.server.domain.ErrorResponse;
 import com.fourgeeks.test.server.domain.TokenInfo;
 import com.fourgeeks.test.server.domain.entities.Person;
 import com.fourgeeks.test.server.facade.PersonFacade;
@@ -9,6 +10,10 @@ import com.fourgeeks.test.server.providers.exceptions.UnauthorizedException;
 import com.fourgeeks.test.server.services.interfaces.PasswordEncryptionService;
 import com.fourgeeks.test.server.services.interfaces.TokenService;
 import com.nimbusds.jwt.SignedJWT;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiResponse;
+import io.swagger.annotations.ApiResponses;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,6 +29,7 @@ import java.util.Objects;
 @Path("/auth")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
+@Api(value = "auth", description = "Authentication")
 public class AuthResource {
 
     private static Logger LOG = LoggerFactory.getLogger(AuthResource.class);
@@ -42,8 +48,16 @@ public class AuthResource {
     }
 
     @GET
-    @NoAuthentication
     @Path("/token")
+    @NoAuthentication
+    @ApiOperation(value = "Token generation trough basic credentials",
+            notes = "Basic encoded credentials are required",
+            response = TokenInfo.class)
+    @ApiResponses(value = {
+            @ApiResponse(code = 400, message = "constraint violation on one or many fields", response = ErrorResponse.class),
+            @ApiResponse(code = 401, message = "Unauthorized", response = ErrorResponse.class),
+            @ApiResponse(code = 404, message = "user not found", response = ErrorResponse.class)
+    })
     public Response generate(@HeaderParam("Authorization") String auth) throws Exception {
 
         final String[] usPw;

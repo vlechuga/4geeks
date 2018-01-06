@@ -31,6 +31,10 @@ public class AuthenticationFeature implements DynamicFeature {
                     .equals("org.glassfish.jersey.server.wadl.internal.WadlResource"))
                 return;
 
+            if (resourceInfo.getResourceClass().getCanonicalName()
+                    .equals("io.swagger.jaxrs.listing.ApiListingResource"))
+                return;
+
             featureContext.register(AuthenticationFilter.class);
 
             if (resourceInfo.getResourceMethod().isAnnotationPresent(ValidateOwner.class))
